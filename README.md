@@ -14,3 +14,8 @@ Caso o webdriver_manager não consiga baixar o chrome driver, baixe manualmente 
  
 #Navegar Whatsaap
 driver = webdriver.Chrome(f"C:\Users\user\Downloads\chromedriver_win32")
+
+OBS: 
+Os nomes dos contatos e grupos devem ser passados exatamente como estão salvo no celular para que o programa funcione corretamente.
+
+
